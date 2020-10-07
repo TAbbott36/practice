@@ -1,3 +1,3 @@
-# First file I've ever made on Github
+# My First Github File!
 
 Thanks for reading this!
